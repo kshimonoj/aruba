@@ -1,5 +1,5 @@
 # Overview
-AOS8 Aruba Mobility Controller Support REST API for most of configuration.
+AOS8 Aruba Mobility Controller Support REST API for most of configuration. <br>
 You can provision AP's parameters by this script.
 
 # Usage
@@ -11,9 +11,9 @@ You can provision AP's parameters by this script.
 In this sample script, https server certification verification was disabled. Please enable verification for your environment.
 
 # How to use AOS8 API
-Please refer following Aruba Developer Hub for more detail about basic AOS8 REST API.
-Getting Started with AOS 8 API 
+Please refer following Aruba Developer Hub for more detail about basic AOS8 REST API. <br>
+Getting Started with AOS 8 API <br>
 https://developer.arubanetworks.com/aruba-aos/docs/getting-started-aos8-restapi
 
-AP provisioning workflow via API 
+AP provisioning workflow via API <br>
 https://developer.arubanetworks.com/aruba-aos/docs/day-1-configuration-tasks#ap-provisioning-workflow-via-api
