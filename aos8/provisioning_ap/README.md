@@ -12,8 +12,8 @@ In this sample script, https server certification verification was disabled. Ple
 
 # How to use AOS8 API
 Please refer following Aruba Developer Hub for more detail about basic AOS8 REST API.
-Getting Started with AOS 8 API
+Getting Started with AOS 8 API 
 https://developer.arubanetworks.com/aruba-aos/docs/getting-started-aos8-restapi
 
-AP provisioning workflow via API
+AP provisioning workflow via API 
 https://developer.arubanetworks.com/aruba-aos/docs/day-1-configuration-tasks#ap-provisioning-workflow-via-api
