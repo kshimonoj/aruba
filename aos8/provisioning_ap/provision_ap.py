@@ -71,4 +71,7 @@ for ap_param in ap_list:
     print(ap_reprovision(ap_param))
 
 
+### Logout ###
+url = "https://"+controller_ip+":4343/v1/api/logout"
+response = s.request("POST", url, verify=False)
 
